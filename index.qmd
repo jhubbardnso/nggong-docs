@@ -1,0 +1,13 @@
+# ngGONG High Level Software
+
+This repository contains docs-as-code documentation for ngGONG High Level Software.
+
+The documentation is expected to grow with the HLS multi-repository project and currently starts with high-level orientation, design notes, the software development plan, and architectural decision records.
+
+## Documentation Sets
+
+- [Overview](docs/overview.qmd)
+- [Initial Design Documents](docs/design/index.qmd)
+- [Software Development Plan](docs/software-development-plan.qmd)
+- [Architectural Decision Records](docs/adr/index.qmd)
+

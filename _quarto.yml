@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "ngGONG High Level Software"
+  subtitle: "Documentation"
+  author: "National Solar Observatory"
+  date: today
+  chapters:
+    - index.qmd
+    - docs/overview.qmd
+    - docs/design/index.qmd
+    - docs/software-development-plan.qmd
+    - docs/adr/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-copy: true
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    colorlinks: true
+
+execute:
+  freeze: auto
