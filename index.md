@@ -6,8 +6,7 @@ The documentation is expected to grow with the HLS multi-repository project and 
 
 ## Documentation Sets
 
-- [Overview](docs/overview.qmd)
-- [Initial Design Documents](docs/design/index.qmd)
-- [Software Development Plan](docs/software-development-plan.qmd)
-- [Architectural Decision Records](docs/adr/index.qmd)
-
+- [Overview](docs/overview.md)
+- [Initial Design Documents](docs/design/index.md)
+- [Software Development Plan](docs/software-development-plan.md)
+- [Architectural Decision Records](docs/adr/index.md)

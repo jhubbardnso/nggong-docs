@@ -58,7 +58,7 @@ make distclean
 - `_quarto.yml` - Quarto project configuration.
 - `Dockerfile` - Local/CI Quarto build image.
 - `Makefile` - Convenience targets for rendering and cleaning outputs.
-- `index.qmd` - Documentation landing page.
+- `index.md` - Documentation landing page.
 - `docs/` - Source documentation pages.
 - `.github/workflows/publish.yml` - GitHub Actions workflow for Pages and PDF artifacts.
 
